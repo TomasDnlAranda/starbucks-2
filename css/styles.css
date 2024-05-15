@@ -23,3 +23,26 @@
 .footer {
 	background-color: forestgreen;
 }
+
+/* tablet */
+@media (min-width: 768px) {
+	.header {
+		background-color: forestgreen;
+	}
+
+	.main {
+		background-color: forestgreen;
+	}
+
+	.gallery {
+		background-color: forestgreen;
+	}
+
+	.cards {
+		background-color: forestgreen;
+	}
+
+	.footer {
+		background-color: forestgreen;
+	}
+}
