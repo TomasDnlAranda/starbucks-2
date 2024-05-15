@@ -46,3 +46,26 @@
 		background-color: forestgreen;
 	}
 }
+
+/* desktop */
+@media (min-width: 1024px) {
+	.header {
+		background-color: forestgreen;
+	}
+
+	.main {
+		background-color: forestgreen;
+	}
+
+	.gallery {
+		background-color: forestgreen;
+	}
+
+	.cards {
+		background-color: forestgreen;
+	}
+
+	.footer {
+		background-color: forestgreen;
+	}
+}
