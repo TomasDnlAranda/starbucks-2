@@ -3,3 +3,23 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+
+.header {
+	background-color: forestgreen;
+}
+
+.main {
+	background-color: forestgreen;
+}
+
+.gallery {
+	background-color: forestgreen;
+}
+
+.cards {
+	background-color: forestgreen;
+}
+
+.footer {
+	background-color: forestgreen;
+}
